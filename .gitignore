@@ -1,0 +1,6 @@
+latex_folder
+*.pdf
+
+test_set.csv
+test_set2.csv
+total_travel_time.csv
